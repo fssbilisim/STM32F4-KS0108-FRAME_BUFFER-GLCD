@@ -33,3 +33,7 @@ Inc>
 Src>
 
     -main.c (örnek dosya / for example)
+    
+<a href="https://ibb.co/Y7f9MKY"><img src="https://i.ibb.co/6RDhxpV/LCD.jpg" alt="LCD" border="0"></a>
+
+<a href="https://ibb.co/VSd4BnN"><img src="https://i.ibb.co/Hz08gw2/PIN.jpg" alt="PIN" border="0"></a>
